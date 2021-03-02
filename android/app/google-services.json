@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247707967730",
+    "project_id": "flutterboard-7ff04",
+    "storage_bucket": "flutterboard-7ff04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247707967730:android:52095b1e4f940728d3306b",
+        "android_client_info": {
+          "package_name": "com.example.earthquake_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247707967730-l9m37scof0fuksdm9jev0ipcd48e7a92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdJVOMgSSKdEyelWECFShI5ihdUrrlouI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247707967730-l9m37scof0fuksdm9jev0ipcd48e7a92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
